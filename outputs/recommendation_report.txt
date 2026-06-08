@@ -1,0 +1,9 @@
+E-Commerce Recommendation Report
+========================================
+2026-06-08 19:32:29.366501
+
+MacBook Air Score:5
+Dell Inspiron Score:5
+Boat Earbuds Score:5
+Sony Headphones Score:5
+iPhone 15 Score:2

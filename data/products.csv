@@ -1,0 +1,11 @@
+product_id,name,category,brand,price,rating
+P101,iPhone 15,Mobile,Apple,79999,4.8
+P102,Galaxy S24,Mobile,Samsung,74999,4.7
+P103,MacBook Air,Laptop,Apple,99999,4.9
+P104,Dell Inspiron,Laptop,Dell,65999,4.5
+P105,Nike Running Shoes,Shoes,Nike,4999,4.6
+P106,Adidas Sneakers,Shoes,Adidas,4599,4.4
+P107,Boat Earbuds,Electronics,Boat,1999,4.3
+P108,Sony Headphones,Electronics,Sony,5999,4.7
+P109,Puma Sports T-Shirt,Clothing,Puma,999,4.2
+P110,Levis Jeans,Clothing,Levis,2499,4.5

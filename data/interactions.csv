@@ -1,0 +1,14 @@
+user_id,product_id,event
+U001,P101,view
+U001,P103,purchase
+U001,P107,cart
+
+U002,P105,purchase
+U002,P106,view
+U002,P109,cart
+
+U003,P102,view
+U003,P108,purchase
+
+U004,P104,view
+U004,P110,purchase
